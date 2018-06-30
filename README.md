@@ -1,4 +1,5 @@
 # Warsztaty_1
+## TASK 1
 Napisz prostą grę w zgadywanie liczb. Komputer ma wylosować liczbę w zakresie od 1 do 100. Następnie:
 
 1. wypisać: "Zgadnij liczbę" i pobrać liczbę z klawiatury;
