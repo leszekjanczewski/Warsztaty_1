@@ -14,9 +14,9 @@ Jak wszystkim wiadomo, LOTTO to gra liczbowa polegająca na losowaniu 6 liczb z 
 Napisz program, który:
 
 * zapyta o typowane liczby, przy okazji sprawdzi następujące warunki:
-**czy wprowadzony ciąg znaków jest poprawną liczbą,
-**czy użytkownik nie wpisał tej liczby już poprzednio,
-**czy liczba należy do zakresu 1-49,
+  *czy wprowadzony ciąg znaków jest poprawną liczbą,
+  *czy użytkownik nie wpisał tej liczby już poprzednio,
+  *czy liczba należy do zakresu 1-49,
 *po wprowadzeniu 6 liczb, posortuje je rosnąco i wyświetli na ekranie,
 *wylosuje 6 liczb z zakresu i wyświetli je na ekranie,
 *poinformuje gracza, czy trafił przynajmniej "trójkę".
