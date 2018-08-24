@@ -20,3 +20,16 @@ Napisz program, który:
 * po wprowadzeniu 6 liczb, posortuje je rosnąco i wyświetli na ekranie,
 * wylosuje 6 liczb z zakresu i wyświetli je na ekranie,
 * poinformuje gracza, czy trafił przynajmniej "trójkę".
+
+## TASK 3
+Odwróćmy teraz sytuację z warsztatu "Gra w zgadywanie liczb": to użytkownik pomyśli sobie liczbę z zakresu 1-1000, a komputer będzie zgadywał i zrobi to maksymalnie w 10 ruchach (pod warunkiem, że gracz nie będzie oszukiwał).
+
+Zadaniem gracza będzie udzielanie odpowiedzi "więcej", "mniej", "trafiłeś".
+
+Na następnym slajdzie znajduje się schemat blokowy algorytmu.
+
+Dostępny jest także pod adresem:
+
+https://gist.github.com/arek-jozwiak-coderslab/4783d45e75a71793a123673cc0998ae3
+
+Zaimplementuj go w Javie.
