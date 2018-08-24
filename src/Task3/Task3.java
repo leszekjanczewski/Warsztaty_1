@@ -12,7 +12,7 @@ public class Task3 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Pomyśl liczbę od 1 do 1000 a ja zgadnę w 10 krokach");
+		System.out.println("Pomyśl liczbę od 1 do 1000 a ja zgadnę w 10 krokach (polecenia jakie rozumiem to: więcej, mniej, trafiłeś");
 		int min = 1;
 		int max = 1000;
 		Random r = new Random();
